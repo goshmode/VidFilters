@@ -3,6 +3,7 @@ Real-time video filters for OpenCV
 
 While it's running, this program will produce a live feed of video from the camera.
 	It operates through key presses, and responds to the following keys:
+	
 		q = quit
 		s = take a screenshot in executable's directory
 		n = normal view
@@ -16,6 +17,6 @@ While it's running, this program will produce a live feed of video from the came
 		l = quantized colors
 		c = cartoon
 		p = pixelated
-	  a = High Dynamic Range
-	  i = trails/ghosting movements - works best when there is some movement in the frame (hands)
-	  u = color shifting
+	  	a = High Dynamic Range
+	  	i = trails/ghosting movements - works best when there is some movement in the frame (hands)
+	 	u = color shifting
